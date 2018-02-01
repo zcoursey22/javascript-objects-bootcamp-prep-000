@@ -1,3 +1,5 @@
-var playlist = {artist:['']};
+var playlist = {};
 
-function
+function updatePlaylist(obj, artist, song) {
+  
+}
